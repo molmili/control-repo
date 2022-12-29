@@ -1,3 +1,3 @@
-node puppetmaster.local {
+node puppetmaster.localdomain {
   include role::master
  }
